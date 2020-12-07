@@ -1,0 +1,24 @@
+{
+  "name": "new-nodejs_bootcamp",
+  "version": "1.0.0",
+  "description": "Create an amazing web app using RESTful API, Nodejs, Express, MongoDB with Nodejs security, payment feature and more",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dilips23/new-nodejs_bootcamp.git"
+  },
+  "keywords": [],
+  "author": "Dillip Kumar Senapati",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dilips23/new-nodejs_bootcamp/issues"
+  },
+  "homepage": "https://github.com/dilips23/new-nodejs_bootcamp#readme",
+  "devDependencies": {
+    "nodemon": "^2.0.6",
+    "slugify": "^1.4.6"
+  }
+}
